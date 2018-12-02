@@ -5,7 +5,7 @@ import autobind from 'autobind-decorator';
 
 const iframeStyle = {
 	width: '100%',
-	height: '300px',
+	height: '6700px',
 };
 
 export default class JotformEmbed extends React.Component {
